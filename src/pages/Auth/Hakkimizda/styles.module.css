@@ -1,0 +1,35 @@
+.title {
+  text-align: center;
+  background-image: url("../../img/7.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  padding: 1rem;
+}
+.main h3 {
+    padding-top: 80px;
+  font-size: 400%;
+  color: rgb(255, 196, 0);
+  font-family: cursive;
+}
+.main {
+  color: white;
+}
+.nav {
+  padding-bottom: 70px;
+  color: black;
+}
+.title .nav a:first-child{
+    margin-right: 30px; 
+}
+
+.btn:hover {
+  color: orangered;
+}
+
+.dipnot {
+  padding-top: 50px;
+  font-size: 70%;
+  color: white;
+}

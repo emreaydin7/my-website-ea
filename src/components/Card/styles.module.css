@@ -1,0 +1,25 @@
+.card1 {
+  width: 30%;
+  margin-bottom: 50px;
+  float: left;
+  height: 350px;
+  padding-left: 110px;
+}
+
+.title {
+  text-align: center;
+}
+.title h2 {
+  padding-top: 50px;
+  padding-bottom: 40px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: 600;
+  font-size: 450%;
+  color: rgb(16, 5, 78);
+}
+.card1_name {
+  font-family: fantasy;
+  font-size: 20px;
+  color: rgb(16, 5, 78);
+}
+

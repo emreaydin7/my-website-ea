@@ -1,0 +1,38 @@
+.nav {
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: solid 1px #e2e8f0;
+  line-height: 50px;
+  align-items: center;
+  background-color: black;
+}
+.nav .left {
+  display: flex;
+  color: white;
+}
+.logo {
+  font-size: 25px;
+  text-decoration: none;
+}
+.nav .right {
+  color: white;
+}
+.nav .right a,
+b:first-child {
+  margin-right: 18px;
+  color: rgba(255, 255, 255, 0.3);
+  cursor: pointer;
+}
+.nav .right a:hover {
+  width: 130px;
+  height: 35px;
+  font-size: 14px;
+  background-color: #2d343e;
+  color: rgba(255, 255, 255, 0.5);
+  cursor: pointer;
+  position: relative;
+  -webkit-transition: background-color 0.3s ease;
+  transition: background-color 0.3s ease;
+  overflow: hidden;
+}
