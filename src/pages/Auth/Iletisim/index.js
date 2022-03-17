@@ -12,7 +12,7 @@ function Iletisim() {
       </main>
       <nav className={styles.nav}>
         <p className={styles.iletisim}>
-          Telefon <span> Adres</span> <span> E-posta</span>
+          <button>Telefon</button> <span> <button>Adres</button> </span> <span> <button>E-posta</button> </span>
         </p>
       </nav>
       <p className={styles.dipnot}>
